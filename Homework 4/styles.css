@@ -1,0 +1,19 @@
+.timer {
+  float: right;
+}
+
+#quizBody {
+  text-align: center;
+}
+
+#questions {
+  text-align: center;
+}
+p #right {
+  text-align: center;
+  font-size: large;
+}
+p #left {
+  text-align: center;
+  font-size: large;
+}
