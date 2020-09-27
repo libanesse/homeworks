@@ -1,0 +1,21 @@
+{
+  "name": "readmegenerator2",
+  "version": "1.0.0",
+  "description": "\"readme Genrator\"",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "create read me generator"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/libanesse/homeworks/tree/master/READMEGenerator2"
+  },
+  "keywords": [
+    "readme",
+    "generator"
+  ],
+  "author": "Liban Esse",
+  "license": "ISC"
+}
